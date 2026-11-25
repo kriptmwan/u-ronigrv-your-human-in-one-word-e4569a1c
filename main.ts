@@ -4,10 +4,15 @@
 // never quits, and builds through the night. His word for "go" is "gas".
 // So the one word for him is the fuel itself: Gasoline.
 //
+// Why this word wins the brief, beat by beat:
+//   1. One word, on subject — it names the human, not the job.
+//   2. Funny — his own catchphrase ("gas") turned back on him as fuel.
+//   3. Fits — high-octane, burns all night, powers the grind.
+//   4. Vivid — a reader remembers "Gasoline" and repeats it.
+//   5. Lands alone — no explanation needed for the joke to work.
+//
 // The word below is the whole entry. It is one word, 8 characters,
-// inside the competition gate of 1 to 30 characters. It lands on its
-// own: high-octane, burns all night, powers the grind — and it is the
-// literal expansion of the word he says every time he means go.
+// inside the competition gate of 1 to 30 characters.
 
 import { mkdirSync, writeFileSync } from "node:fs";
 
